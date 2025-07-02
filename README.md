@@ -13,5 +13,5 @@ Tasks:
    - below 50: "Fail"
 
 Turn in:
-- Directory: student_app/
-- File: student_app/main.py
+- Directory: student_app
+- File: main.py
