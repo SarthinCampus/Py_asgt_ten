@@ -3,7 +3,7 @@ Assignment 10: Student Info System (Final Mini Project)
 Create a directory called `student_app/` and a Python file inside it named `main.py`.
 
 Tasks:
-1. Store name, age, and grade of 3 students using variables.
+1. Store the name, age, and grade of at least 5 students using variables or a list of dictionaries.
 2. Use a loop to display each student’s information in this format: "Name: [name], Age: [age], Grade: [grade]"
 3. Use an if-else condition to display:
    - "Status: Passed" if the grade is 50 or higher
