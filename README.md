@@ -15,6 +15,7 @@ Tasks:
    - below 50: "Fail"
 
 Output Format (Example for one student):
+
    Name: Alice, Age: 20, Grade: 85  
    Status: Passed  
    Level: Excellent  
